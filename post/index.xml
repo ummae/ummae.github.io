@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ummae.com</title>
-    <link>http://ummae.com/post/</link>
-    <description>Recent content in Posts on ummae.com</description>
+    <title>Posts on Ummae</title>
+    <link>http://blog.ummae.com/post/</link>
+    <description>Recent content in Posts on Ummae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <lastBuildDate>Thu, 09 Jun 2016 02:41:27 +0900</lastBuildDate>
-    <atom:link href="http://ummae.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.ummae.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>No smoking!</title>
-      <link>http://ummae.com/post/stop-smoking/</link>
+      <link>http://blog.ummae.com/post/stop-smoking/</link>
       <pubDate>Thu, 09 Jun 2016 02:41:27 +0900</pubDate>
       
-      <guid>http://ummae.com/post/stop-smoking/</guid>
+      <guid>http://blog.ummae.com/post/stop-smoking/</guid>
       <description>&lt;p&gt;너무 늦은 감이 있지만, 이제라도 다시 금연을 시작했다. 이제는 의지만으로 끊겠다는 객기를 부릴 시기도 지났고 자신도 없고 해서 병원을 찾았다.&lt;/p&gt;
 
 &lt;p&gt;처방받은 약은 챔픽스.&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>move</title>
-      <link>http://ummae.com/post/move/</link>
+      <link>http://blog.ummae.com/post/move/</link>
       <pubDate>Sat, 09 Apr 2016 01:43:32 +0900</pubDate>
       
-      <guid>http://ummae.com/post/move/</guid>
+      <guid>http://blog.ummae.com/post/move/</guid>
       <description>&lt;p&gt;이사.&lt;/p&gt;
 </description>
     </item>
