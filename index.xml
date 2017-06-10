@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>Lucas Kwangseob Kim</copyright>
-    <lastBuildDate>Sun, 04 Sep 2016 22:08:46 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2017 01:19:43 +0900</lastBuildDate>
     
 	<atom:link href="http://blog.ummae.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>diary</title>
+      <link>http://blog.ummae.com/post/2017/06/20170611-diary/</link>
+      <pubDate>Sun, 11 Jun 2017 01:19:43 +0900</pubDate>
+      
+      <guid>http://blog.ummae.com/post/2017/06/20170611-diary/</guid>
+      <description>코딩 글꼴 문득 MacVim에 보이는 글에서 볼드체와 이탤릭체가 아무런 차이가 없다는 걸 깨달았다. 이걸 왜 여태 몰랐지?
+ 서체 설정을 보니 일반(roman) 서체만 설치했길래, 볼드체와 이탤릭체도 설치했다.
+   조깅 날이 따뜻해져서인지 자유 수영을 하러 가면 인원 제한에 걸려서 헛걸음질을 종종 하고 있다. 그러다 하루는 오랜만에 조깅을 했는데, 가볍게 뛰었을 뿐인데 다음날 허벅지에 고통이&amp;hellip;
+수영을 1년 넘게 하고 있고, 나름 꾸준히 하고 있어서 유산소 운동을 게을리하는걸 별로 신경쓰지 않았는데 그새 살도 많이 찌고, 그나마 근력을 좀 쓰던 배드민턴까지 안 하게 되면서 특히나 하체가 많이 부실해진 것 같다.</description>
+    </item>
     
     <item>
       <title>No more, no more, no more...</title>
