@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://blog.ummae.com/</loc>
-    <lastmod>2016-09-04T22:08:46+09:00</lastmod>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://blog.ummae.com/post/2016/09/no-more/</loc>
@@ -20,6 +15,28 @@
   <url>
     <loc>http://blog.ummae.com/post/move/</loc>
     <lastmod>2016-04-09T01:43:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ummae.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ummae.com/post/</loc>
+    <lastmod>2016-09-04T22:08:46+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ummae.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ummae.com/</loc>
+    <lastmod>2016-09-04T22:08:46+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
